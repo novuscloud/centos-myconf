@@ -1,1 +1,1 @@
-# novuspanel
+# cyberpanelconf
